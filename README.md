@@ -37,7 +37,7 @@ This project is intended for education purposes only.
 To run the project in your local machine:
 
 1. Open visual studio in your computer or laptop
-2. Clone the git project: https://github.com/pmcclelland11/Vehicle-Management-System.git
+2. Clone the git project: https://github.com/pmcclelland11/NoSQL-Challenge-Social-Network-API.git
 3. Pull the latest from the 'main' branch.
 4. Open a new terminal and type 'npm install' to install the necessary dependencies
 5. Seed the database using 'npm seed'
